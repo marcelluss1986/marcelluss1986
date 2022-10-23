@@ -37,6 +37,8 @@ Here are some ideas to get you started:
   <div align="center" style="display: inline_block">
   
  <a href="linkedin.com/in/marcelo-soares-81941a25" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ <a href="mailto:marcelossoare@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 
  </div>
  
